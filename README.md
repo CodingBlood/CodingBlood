@@ -1,5 +1,5 @@
 # Hello, I am Kartik <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-Ex - Intern at Akon | MSA-KiiT | Dsc-KiiT Member|Ex-SwaG KiiT Member| Python Developer | Deep Learning |Competitive Programmer |MERN Full Stack Dev
+MSA-KiiT | Dsc-KiiT Member | Ex - Intern at Akon | Ex-SwaG KiiT Member | Python Developer | Competitive Programmer | MERN Full Stack Dev | Deep Learning
 
 ![Kartik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=CodingBlood&theme=react-dark&hide_border=true&area=true)
 
